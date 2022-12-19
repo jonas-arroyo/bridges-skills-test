@@ -1,0 +1,14 @@
+defaultPortal: skills-test
+portals:
+  - name: skills-test
+    portalId: 23581745
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMCixt3SMBILAA0AAAAA4A0DQAIYsaifCyDpx5sXKO7pDDIUBBpm8xPmrcLBBZ_vDVnzQbsYtdY6NwAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcA_v8xPAAABgBEAGAAAAAAAAAAAAAAAAAAMAJCFI28z9cSn7kqj2-0lusFCkwyUL-gSgNuYTFSAFoA
+        expiresAt: '2022-12-19T18:42:15.492Z'
+    personalAccessKey: >-
+      CiQwYzRjYjczNC1kNzNiLTQ4YzMtYmUwOS1iMGQ0NmRjZGI0YWIQsaifCxjpx5sXKhkABeaRgp4HDwHYPpkM0eSN8XNTzMKI-KnaSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
